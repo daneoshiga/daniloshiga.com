@@ -1,1 +1,1 @@
-Repository for the website on daniloshiga.com make using yeoman
+Repository for the website on daniloshiga.com made using yeoman
